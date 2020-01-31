@@ -1,0 +1,27 @@
+body {
+    background-color: #131212b8;
+}
+.container{
+    width: 100%;
+}
+.input-group-append {
+    width: 100%;
+}
+.table {
+    width: 70%;
+    margin: 0 auto;
+    background: #fff;
+}
+.table td {
+    text-align: center;
+}
+.table th {
+    text-align: center;
+}
+.finalcontainer{
+    display: inline-flex
+}
+.movespoki {
+    display: inline-flex;
+    margin: 6px 5px;
+}
